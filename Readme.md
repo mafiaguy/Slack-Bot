@@ -1,6 +1,6 @@
 # Slack Welcome Bot
 
-A slack bot implemented in python for welcoming new users to a slack team. This implementation uses __Python 3__
+A slack bot implemented in  __Python 3__
 
 ## Getting Started
 
@@ -30,9 +30,7 @@ To install and get running locally
 1. run command `pip install virtualenv`
 2. run command `pip install -r requirements.txt`
 3. Set API Token gotten from slack as _SLACK_BOT_TOKEN_ in your os environment
-4. Update Channel ID you need bot to function in the `starterbot.py` file in the project's root directory
-5. `cd` into project root directory and run command `python starterbot.py`
-6. Test out bot in the slack teaminished
+4. still working on this
 
 
 ## Built With
